@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SPEAR.Ingestion": {
+      "commandName": "Project",
+      "commandLineArgs": "/list"
+    }
+  }
+}
